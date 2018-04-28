@@ -7,13 +7,13 @@
         <div class="container-left-pic-border">
           <img class="container-left-pic" src="~assets/favicon.png" alt="">
         </div>
-        <div class="container-left-name">keenjaan</div>
-        <p class="container-left-introduction">一个爱运动的程序员</p>
+        <div class="container-left-name">章鱼</div>
+        <p class="container-left-introduction">以梦为马，不负韶华</p>
         <nuxt-link class="to-home-page" to="/">首页</nuxt-link>
         <div class="container-left-link-border">
-          <a class="container-left-link" href="https://github.com/keenjaan" target="_blank">github主页</a>
-          <a class="container-left-link" href="https://juejin.im/user/584aba29128fe1006c7d16c5" target="_blank">掘金主页</a>
-          <a class="container-left-link" href="https://www.jianshu.com/u/4f7bfde3a60d" target="_blank">简书主页</a>
+          <a class="container-left-link" href="https://github.com/zhangyu0414" target="_blank">github主页</a>
+          <a class="container-left-link" href="" target="_blank">掘金主页</a>
+          <a class="container-left-link" href="" target="_blank">简书主页</a>
         </div>
       </div>
     </div>
@@ -24,19 +24,17 @@
             <div class="container-mobile-photo-border">
               <img class="container-left-pic" src="~assets/favicon.png" alt="">
             </div>
-            <div class="container-moblie-name">keenjaan</div>
-            <p class="container-mobile-introduction">
-              <span>一个爱运动的程序员</span>
-            </p>
+            <div class="container-moblie-name">章鱼</div>
+            <p class="container-mobile-introduction">以梦为马，不负韶华</p>
             <nuxt-link class="to-home-page-mobile" to="/">首页</nuxt-link>
             <p class="container-mobile-link">
-              <a class="container-mobile-link-item" href="https://github.com/keenjaan" target="_blank">github主页</a>
+              <a class="container-mobile-link-item" href="https://github.com/zhangyu0414" target="_blank">github主页</a>
             </p>
             <p class="container-mobile-link">
-              <a class="container-mobile-link-item" href="https://juejin.im/user/584aba29128fe1006c7d16c5" target="_blank">掘金主页</a>
+              <a class="container-mobile-link-item" href="" target="_blank">掘金主页</a>
             </p>
             <!-- <p class="container-mobile-link-bottom">
-              <a class="container-mobile-link-item" href="https://www.jianshu.com/u/4f7bfde3a60d" target="_blank">简书主页</a>
+              <a class="container-mobile-link-item" href="" target="_blank">简书主页</a>
             </p> -->
           </div>
         </div>
